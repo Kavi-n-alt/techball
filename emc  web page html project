@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width="", initial-scale=1.0">
+    <title>EMC</title>
+    <LINK rel="SHORTCUT ICON" href="emc.png">
+</head>
+<body>
+    <CENTER>
+    <H1>ERROR MAKES CLEVER  🚀</H1>
+    <H3>TRAINING |TECH NEWS| FRESHERS GUIDE</H3>
+    <P>Empowering young developers to develop theire skill through training in software development technologies👨‍🏫</P>
+    </CENTER>
+    <hr>
+    <CENTER>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=0zdbsoexhSUHBujn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></CENTER>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus voluptas quos nobis ea natus id a. Qui consequatur earum ipsa provident rerum iusto ab, velit eum. Nemo ea reiciendis excepturi?</p>
+
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo delectus nihil modi cum minima quisquam nobis totam, dicta veniam quaerat!</p>
+
+<H3>LET'S DIVIDE FULL STACK INTO 3 PARTS:</H3>
+<UL>
+    <LI>FRONTEND</LI>
+    <LI>BACKEND</LI>
+    <LI>DATABASE</LI>
+</UL>
+<H2>TECHNOLOGIES USED IN FULL STACK DEVELOPMENT</H2>
+<TABLE border="1">
+<TR><TH>FRONTEND</TH>
+    <TH>BACKEND</TH>
+    <TH>DATABASE</TH>
+</TR>
+<TR>
+    <TD>HTML
+    </TD>
+    <TD>JAVA</TD>
+    <TD>MONGO.DB</TD>
+</TR>
+<TR><TD>CSS</TD>
+<TD>PYTHON</TD>
+<TD>MYSQL</TD>
+</TR>
+<TR><TD>JAVASCRIPT</TD>
+<TD>NODE JS</TD>
+<TD>AWS</TD></TR>
+</TABLE>
+<HR><CENTER>
+    <A href="register.html"><INS>REGISTER FOR A COURSE |</INS></A>
+    <A HREF="https://www.instagram.com/_kavin._.kumar_45/"><INS>INSTAGRAM |</INS></A>   
+    <A HREF="https://github.com/Kavi-n-alt/techball" ><INS>GITHUB</INS></A></TD></TR></CENTER>
+
+    
+</body>
+</html>
